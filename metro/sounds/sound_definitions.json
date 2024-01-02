@@ -1,0 +1,170 @@
+{
+  "format_version": "1.16.100",
+  "sound_definitions": {
+    "voice.metro.002003CMT": {
+      "category": "music",
+      "is3D": false,
+      "weight": 25,
+      "stream": true,
+      "volume": 0.5,
+      "load_on_low_memory": true,
+      "sounds": [
+        "sounds/voice/002003CMT"
+      ]
+    },
+    "voice.metro.002003VQD": {
+      "category": "music",
+      "is3D": false,
+      "weight": 25,
+      "stream": true,
+      "volume": 0.5,
+      "load_on_low_memory": true,
+      "sounds": [
+        "sounds/voice/002003VQD"
+      ]
+    },
+    "voice.metro.002003CDD": {
+      "category": "music",
+      "is3D": false,
+      "weight": 25,
+      "stream": true,
+      "volume": 0.5,
+      "load_on_low_memory": true,
+      "sounds": [
+        "sounds/voice/002003CDD"
+      ]
+    },
+    "voice.metro.002001VQD1": {
+      "category": "music",
+      "is3D": false,
+      "weight": 25,
+      "stream": true,
+      "volume": 0.5,
+      "load_on_low_memory": true,
+      "sounds": [
+        "sounds/voice/002001VQD1"
+      ]
+    },
+    "voice.metro.002002VQD21": {
+      "category": "music",
+      "is3D": false,
+      "weight": 25,
+      "stream": true,
+      "volume": 0.5,
+      "load_on_low_memory": true,
+      "sounds": [
+        "sounds/voice/002002VQD21"
+      ]
+    },
+    "voice.metro.002001CMT1": {
+      "category": "music",
+      "is3D": false,
+      "weight": 25,
+      "stream": true,
+      "volume": 0.5,
+      "load_on_low_memory": true,
+      "sounds": [
+        "sounds/voice/002001CMT1"
+      ]
+    },
+    "voice.metro.002002CMT11": {
+      "category": "music",
+      "is3D": false,
+      "weight": 25,
+      "stream": true,
+      "volume": 0.5,
+      "load_on_low_memory": true,
+      "sounds": [
+        "sounds/voice/002002CMT11"
+      ]
+    },
+    "voice.metro.002001VQD2": {
+      "category": "music",
+      "is3D": false,
+      "weight": 25,
+      "stream": true,
+      "volume": 0.5,
+      "load_on_low_memory": true,
+      "sounds": [
+        "sounds/voice/002001VQD2"
+      ]
+    },
+    "voice.metro.002002VQD22": {
+      "category": "music",
+      "is3D": false,
+      "weight": 25,
+      "stream": true,
+      "volume": 0.5,
+      "load_on_low_memory": true,
+      "sounds": [
+        "sounds/voice/002002VQD22"
+      ]
+    },
+    "voice.metro.002001CDD2": {
+      "category": "music",
+      "is3D": false,
+      "weight": 25,
+      "stream": true,
+      "volume": 0.5,
+      "load_on_low_memory": true,
+      "sounds": [
+        "sounds/voice/002001CDD2"
+      ]
+    },
+    "voice.metro.002002CDD12": {
+      "category": "music",
+      "is3D": false,
+      "weight": 25,
+      "stream": true,
+      "volume": 0.5,
+      "load_on_low_memory": true,
+      "sounds": [
+        "sounds/voice/002002CDD12"
+      ]
+    },
+    "voice.metro.00169344": {
+      "category": "music",
+      "is3D": false,
+      "weight": 25,
+      "stream": true,
+      "volume": 0.5,
+      "load_on_low_memory": true,
+      "sounds": [
+        "sounds/voice/00169344"
+      ]
+    },
+    "voice.metro.00124521": {
+      "category": "music",
+      "is3D": false,
+      "weight": 25,
+      "stream": true,
+      "volume": 0.5,
+      "load_on_low_memory": true,
+      "sounds": [
+        "sounds/voice/00124521"
+      ]
+    },
+    "voice.metro.00128500": {
+      "category": "music",
+      "is3D": false,
+      "weight": 25,
+      "stream": true,
+      "volume": 0.5,
+      "load_on_low_memory": true,
+      "sounds": [
+        "sounds/voice/00128500"
+      ]
+    },
+    "voice.metro.00170492": {
+      "category": "music",
+      "is3D": false,
+      "weight": 25,
+      "stream": true,
+      "volume": 0.5,
+      "load_on_low_memory": true,
+      "sounds": [
+        "sounds/voice/00170492"
+      ]
+    }
+  }
+}
